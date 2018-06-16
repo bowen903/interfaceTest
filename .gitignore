@@ -1,0 +1,11 @@
+.idea/.name
+.idea/encodings.xml
+.idea/gittest.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+__pycache__/
+testcase/__pycache__/
+report
+report/
+report/*
