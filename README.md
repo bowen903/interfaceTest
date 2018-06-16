@@ -15,10 +15,12 @@
  --TestSuite.py 直接运行的文件
   
 ```
-
+* ![img](https://github.com/ericyishi/img-folder/blob/master/interfaceTest/structure.png)
 ### 使用
 1. 测试用例写在testcase文件夹下，测试用例以Test_开头即可
 2. 运行TestSuite.py文件即可
+3. 运行完成后生成html报告
+* ![img](https://github.com/ericyishi/img-folder/blob/master/interfaceTest/report.png)
 
 ### 待优化
 * 写一个配置文件，将url提取出来，作为参数传入
